@@ -83,7 +83,7 @@
   },
   {
    "fieldname": "security_in_charge",
-   "fieldtype": "Link",
+   "fieldtype": "Data",
    "label": "Security In-Charge",
    "options": "User"
   },
@@ -129,7 +129,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-05-22 16:28:44.402584",
+ "modified": "2025-05-22 16:44:24.072226",
  "modified_by": "Administrator",
  "module": "Weight Details",
  "name": "Weight details",
